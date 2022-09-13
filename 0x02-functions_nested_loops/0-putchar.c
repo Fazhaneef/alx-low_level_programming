@@ -1,17 +1,20 @@
-#include "Fazal.h"
+#include "main.h"
+
 /**
- * main - Prints "Fazal" followed by a new line
+ * main - Prints "_putchar" followed by a new line.
  *
  * Return: Always 0.
- *
  **/
 int main(void)
 {
-_putchar('F');
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
 _putchar('a');
-_putchar('z');
-_putchar('a');
-_putchar('l');
+_putchar('r');
 _putchar('\n');
 
 return (0);
